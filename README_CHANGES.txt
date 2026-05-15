@@ -1,0 +1,1 @@
+Changes: loading ring now goes around the OHGS logo, header logo links to homepage, extra small header icon removed, and header shrinks smoothly on scroll.
